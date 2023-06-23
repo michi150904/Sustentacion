@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    color: #00D464;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+h5{
+    color: #00D464;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main p{
+    background:rgb(231, 224, 219) ;
+    height: auto;
+    width: auto;
+    margin: 20px 50px;
+    font-size: larger;
+    color:#403129 ;
+    font-weight: 700;
+    padding: 60px 60px;
+    border-radius: 10px;
+}
+.section{
+    background:rgb(231, 224, 219) ;
+    height: auto;
+    width: auto;
+    margin: 20px 50px;
+    font-size: larger;
+    color:#403129 ;
+    font-weight: 700;
+    padding: 60px 60px;
+    border-radius: 10px;
+}
+
+/*ESTILOS DEL DASHBOARD*/
+ section h3{
+    color: #00D464;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+section h5{
+    color: #00D464;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main section p{
+    background:rgb(231, 224, 219) ;
+    height: auto;
+    width: auto;
+    margin: 20px 50px;
+    font-size: larger;
+    color:#403129 ;
+    font-weight: 700;
+    padding: 60px 60px;
+    border-radius: 10px;
+}
+.buttons2{
+    width: 200px;
+    height: 60px;
+    background: #00D464;
+    border: none;
+    color: white;
+    font-size: 20px;
+    float: right;
+    border-radius: 6px;
+}
+.table{
+    width: 100%;
+    border: 1px solid #000;
+    background: #ddc7bc;
+}
+.td{
+    width: 25%;
+    text-align: center;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    background: #403129;
+}
+caption {
+   padding: 0.3em;
+}
